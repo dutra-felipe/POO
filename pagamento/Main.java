@@ -1,11 +1,5 @@
 package pagamento;
 
-import pagamento.Funcionario;
-import pagamento.F_assalariado;
-import pagamento.F_horista;
-import pagamento.F_comissionado;
-import pagamento.F_C_comSB;
-
 public class Main {
     public static void main(String[] args) {
         F_assalariado funcionario_assalariado = new F_assalariado("Jhon", "Green", "009.987.654-34", 800.00);
