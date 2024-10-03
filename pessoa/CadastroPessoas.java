@@ -14,7 +14,12 @@ public class CadastroPessoas {
             pessoas[qtd] = pess;
             qtd++;
         } else {
-            System.out.println("Cadastro cheio");
+            Pessoa[] new_pessoas = new Pessoa[pessoas.length + 1];
+            System.arraycopy(pessoas, 0, new_pessoas, 0, pessoas.length);
+            pessoas = new_pessoas;
+            pessoas[qtd] = pess;
+            qtd++;
+            System.out.println("Cadastro cheio, aumentando o tamanho do array.");        
         }
     }
 
