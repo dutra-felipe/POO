@@ -1,0 +1,12 @@
+com/bookmarks/dao/UserDAO.class
+com/bookmarks/dao/SiteDAO.class
+com/bookmarks/model/Site.class
+com/bookmarks/service/SiteService.class
+com/bookmarks/service/AuthenticationService.class
+com/bookmarks/ui/UserUI.class
+com/bookmarks/dao/DatabaseConnection.class
+com/bookmarks/model/User.class
+com/bookmarks/service/UserService.class
+com/bookmarks/ui/MainUI.class
+com/bookmarks/model/Category.class
+com/bookmarks/ui/SiteUI.class

@@ -1,0 +1,12 @@
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/dao/DatabaseConnection.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/service/AuthenticationService.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/service/SiteService.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/model/Category.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/service/UserService.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/ui/MainUI.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/dao/UserDAO.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/ui/UserUI.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/model/User.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/dao/SiteDAO.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/ui/SiteUI.java
+/home/felipe-dutra/POO/bookmarks/src/main/java/com/bookmarks/model/Site.java
